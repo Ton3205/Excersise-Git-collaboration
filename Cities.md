@@ -1,2 +1,3 @@
 
 Beijing, China
+Seattle, USA
